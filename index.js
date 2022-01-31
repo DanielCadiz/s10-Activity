@@ -20,5 +20,5 @@ for (let i=0;i<word.length;i++){
 		consonants += word[i];
 	}
 }
-console.log(word);
+console.log(word); 
 console.log(consonants);
